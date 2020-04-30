@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data/.idea/data.iml" filepath="$PROJECT_DIR$/../data/.idea/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../numpy-100-master/.idea/numpy-100-master.iml" filepath="$PROJECT_DIR$/../numpy-100-master/.idea/numpy-100-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python learning.iml" filepath="$PROJECT_DIR$/.idea/python learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../字体/.idea/字体.iml" filepath="$PROJECT_DIR$/../字体/.idea/字体.iml" />
+    </modules>
+  </component>
+</project>
